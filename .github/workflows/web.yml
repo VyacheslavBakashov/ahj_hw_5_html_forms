@@ -1,4 +1,4 @@
-name: AHJ_HW_4_testing
+name: AHJ_HW
 
 on: [push, pull_request]
 
